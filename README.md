@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Here, are some screenshots of the running app screen:
 
-![welc_page](/screenshots/welc_page.jpeg)
+![welc_page](/screenshots/welc_page.jpg)
 
-![page1-2](/screenshots/pg1-2.jpeg)
+![page1-2](/screenshots/pg1-2.jpg)
 
-![page2-3](/screenshots/pg2-3.jpeg)
+![page2-3](/screenshots/pg2-3.jpg)
