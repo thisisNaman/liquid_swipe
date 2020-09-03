@@ -1,6 +1,7 @@
-# os
+# Liquid_Swipe
 
-A new Flutter project.
+A simple flutter project demonstrating liquid_swipe in flutter
+## It's Awesome!!  🤩
 
 ## Getting Started
 
@@ -14,3 +15,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Here, are some screenshots of the running app screen:
+
+![welc_page](/screenshots/welc_page.jpeg)
+
+![page1-2](/screenshots/pg1-2.jpeg)
+
+![page2-3](/screenshots/pg2-3.jpeg)
